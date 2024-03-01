@@ -26,7 +26,6 @@ Prisca, Adetta, Thomas, Teddy, and Danson (*left to right*) in 2024.
 >Our Team of founders, builders, and fundraisers.
 
 ## Elisabeth 'Adetta' Heynold
-<!--<img src="/assets/img/team/AH.jpg" alt="Adetta" title="Adetta Heynold" width="300" height="300">--->
 ![Adetta](assets/img/team/AH.jpg){:.tail width="512" height="512" loading="lazy"}
 
  Adetta is one of the founding members of ElMaMa. She is our point person and leader, she funded and oversaw the original building phase and continued to support the project through the Covid pandemic in 2020. Outside of ElMaMa she is a resident neurosurgeon and researcher in neuroscience in New York, USA.
@@ -70,9 +69,3 @@ Madame Priscilla is a dedicated teacher and educator for our kindergarteners and
 ![Mary](assets/img/team/Mary.jpg){:.tail width="512" height="512" loading="lazy"}
 
 Madame Mary is our dedicated chef and diligently prepares breakfast and lunch for our children making sure nobody has to go home hungry.
-
-![Team](assets/img/raw/Group_logo.jpg){:.lead width="512" height="512" loading="lazy"}
-
-![ElMaMa main building](/assets/img/projects/ElMaMa/main_building.jpg){:.lead width="1920" height="1080" loading="lazy"}
-
-![In the classroom](/assets/img/projects/ElMaMa/raise.JPG){:.lead width="1920" height="860" loading="lazy"}

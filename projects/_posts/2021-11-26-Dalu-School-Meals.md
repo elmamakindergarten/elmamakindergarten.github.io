@@ -1,7 +1,7 @@
 ---
 layout: post
 image: 
-  path: /assets/img/projects/Dalu/dalu.jpg
+  path: /assets/img/projects/Dalu/dalu-1920.jpg
 title: Dalu food support
 description: >
   Food support for schools in Dalu and Gandini during the 2021 draught
@@ -16,6 +16,6 @@ related posts:
 
 During a major draught in 2021, we have started to support schools and families in communities outside of Kilifi county, particularly in the towns of Gandini and Dalu, in Tana river county further north.
 
-![Dalu kindergarten class](/assets/img/projects/Dalu/IMG_1814.jpg){:.lead width="1960" height="860"}
+![Dalu kindergarten class](/assets/img/projects/Dalu/dalu-kindergarten-1920.jpg){:.lead width="1920" height="860" loading="lazy"}
 Kindergarten class in Dalu, 2024
 {:.figure}

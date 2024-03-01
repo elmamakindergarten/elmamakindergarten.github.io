@@ -8,7 +8,7 @@ image:
   srcset:
     1060w: /assets/img/blog/Dalu_visit_2024/IMG_1913-1920.jpg
     530w:  /assets/img/blog/Dalu_visit_2024/IMG_1913-960.jpg
-    265w:  /assets/img/blog/Dalu_visit_2024/IMG_1913.jpg
+    265w:  /assets/img/blog/Dalu_visit_2024/IMG_1913-480.jpg
 related_posts:
   - projects/2021-11-26-Dalu-School-Meals
 category: [blog]

@@ -18,7 +18,7 @@ hide_description: true
 1. this list will be replaced by the toc
 {:toc .large-only}
 
-![ElMaMa main building](/assets/img/projects/ElMaMa/main_building.jpg){:.lead width="1920" height="1080" loading="lazy"}
+![ElMaMa main building](/assets/img/projects/ElMaMa/main_building-1920.jpg){:.lead width="1920" height="1080" loading="lazy"}
 
 Main building of our Kindergarten in Watamu, Kilifi County, Kenya in 2024
 {:.figcaption}
@@ -26,7 +26,7 @@ Main building of our Kindergarten in Watamu, Kilifi County, Kenya in 2024
 > Learn more about our [projects](/projects/), specifically the [ElMaMa kindergarten](/projects/2020-03-02-ElMaMa-Kindergarten).
 {:.lead}
 
-![In the classroom](/assets/img/projects/ElMaMa/raise.JPG){:.lead width="1920" height="860" loading="lazy"}
+![In the classroom](/assets/img/projects/ElMaMa/raise-1920.jpg){:.lead width="1920" height="860" loading="lazy"}
 
 > Check our [blog](/blog/) to learn more about the most recent updates!
 {:.lead}
