@@ -36,5 +36,5 @@ We strive to make access to our support as equitable as possible. We support chi
 ## Working with the communities
 Our team is deeply rooted in the communities we support. [Prisca](/team/) is a village Elder in Watamu and thereby well familiar with the traditions and customs of the people we support. [Danson](/team/) has been a teacher for the last 4 decades and knows all ins and outs of the Kenyan education system. He tought innumerable students and knows the families and communities both in Watamu as well as in the other schools we support. We are not coming in as outsiders to impose our own ideas of welfare, but instead work with local traditions to generate change and growth from within. When we feel that these goals conflict with others outlined above, we work with the communities to find solutions with mutual benefit. For instance, the community in [Dalu](/projects/2021-11-26-Dalu-School-Meals) decided to add a woman to their previously all-male board of village elders to promote an equitable distribution of the received support across all members of the community.
 
-> Check our [blog](/blog/) to learn more about the most recent updates!
+> Check our [blog](/blog/) to learn more about our most recent updates!
 {:.lead}
