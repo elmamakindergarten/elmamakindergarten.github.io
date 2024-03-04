@@ -28,5 +28,5 @@ Main building of our Kindergarten in Watamu, Kilifi County, Kenya in 2024
 
 ![In the classroom](/assets/img/projects/ElMaMa/raise-1920.jpg){:.lead width="1920" height="860" loading="lazy"}
 
-> Check our [blog](/blog/) to learn more about the most recent updates!
+> Check our [blog](/blog/) to learn more about our most recent updates!
 {:.lead}
