@@ -11,12 +11,11 @@ hide_description: true
 
 <!--author-->
 
-<p> Support our effort and help us help others. As of now our enterprise is entirely 
+Support our effort and help us help others. As of now our enterprise is entirely 
 private and supported by donations from friends and family. We are in the 
 process of registering as a non-profit organization but as of now dontaions to us are non
  tax-decutible. Donations of any kind, particularly monthly recurrent ones, help us sustain 
- and grow the projects. Please consider donating via Paypal or reach out via email for 
- alternative ways of contributing. </p>
+ and grow the projects. Please consider donating by clicking on [**Venmo**](https://venmo.com/?txn=pay&audience=public&recipients=@ElisabethAdetta-Heynold&note=For%20Elmama%20Kindergarten%20Watamu,%20Kenya) or [**Paypal**](https://www.paypal.com/donate/?hosted_button_id=2BLC9SYLSQN5W) to follow the links or reach out via [**email**](mailto:elisabeth.heynold@web.de) for  alternative ways of contributing.
 
 <br  />
 
