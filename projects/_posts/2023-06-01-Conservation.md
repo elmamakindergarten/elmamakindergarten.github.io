@@ -19,7 +19,7 @@ tags:       [Conservation]
 
 One of the scariest thing happening in our time is the high rate of extinction of species. What brought me first to Kenya was Kitesurfing but also fulfilling my childhood dream of seeing the savanna with all its enormous but also tiny inhabitants. Kenya takes conservation serious and has taken drastic measures to reduce poaching (for example by burning 12 tones of seized ivory in 1989). 
 
-![Kids with elephant necklaces](/assets/img/projects/Conservation/KidsElephants.jpeg){:.lead width="1920" height="860" loading="lazy"}
+![Kids with elephant necklaces](/assets/img/projects/Conservation/KidsElephants.JPEG){:.lead width="1920" height="860" loading="lazy"}
 Elephant necklaces for the Watamu kindergarten children.
 {:.figure}
 
