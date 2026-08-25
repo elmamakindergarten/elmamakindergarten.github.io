@@ -30,5 +30,5 @@ Children eating in the school yard.
 Supplying meals in school has drastically increased attendance over the summer, which was plaged by absenteeism in the previous years. Malnutrition is a significant problem for many learners that used to significantly limit their academic attainments.
 
 ![Food for Dalu](/assets/img/blog/Dalu_2026/2026_Dalu_withBowl.jpg){:.lead width="1960" height="860"}
-Exercise books for all children.
 {:.figure}
+
